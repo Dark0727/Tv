@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 group-title="Español Latino" tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC Latin America
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",AMC Series Latin America
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",Disney Channel Latin America
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney Jr. Latin America South
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="Español Latino" tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",TNT Novelas
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",A&E Latin America
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="AXNLatinAmerica.us@Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN Latin America Andes
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="Cinecanal.us@Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal Pacific
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX Latin America
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="Space.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",Star Channel Latin America
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal Latin America
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png",TNT Series Latin America
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",Universal TV Latin America
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",Warner Channel Colombia
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax Latin America
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png",CineLatino
+http://206.135.11.174:8010/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png",Golden Plus
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png",Golden Premier
+http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-logo="https://alpha.uscreencdn.com/nullx100/images/logotypes/36356/all-orange-logo-on-transparent-background.1694501197.png",Golden TV
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="TNTLatinAmerica.us@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT Latin America
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png",Fox Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery Latin America South
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",Discovery Channel Latin America
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Latin America
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="TLCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",TLC Latin America
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="DiscoveryKidsLatinAmerica.us@Chile" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",Discovery Kids Latin America Chile
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic Latin America Panregional
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Latin America South Atlantic
+http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="TomAndJerry.do" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN Latin America Argentina
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",MTV Latin America
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 group-title="Español Latino" tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png",Claro Musica TV
+http://45.171.64.30:6060/play/a010
+#EXTINF:-1 group-title="Español Latino" tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
